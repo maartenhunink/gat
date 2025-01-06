@@ -17,7 +17,6 @@
     {{- partial "header.html" . -}}
     <div class="wrapper">
         <main class="main-posts-list" aria-label="Content">
-            {{/* Show last 5 posts in reverse date order */}}
             {{ $pagesToShow := where .Site.RegularPages "Type" "in" site.Params.mainSections }}
             {{ $posts := $pagesToShow.ByParam "number" }}
             {{ range $posts }}

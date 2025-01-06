@@ -2,67 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/gat/posts/09/</loc>
+    <loc>//localhost:57359/posts/</loc>
     <lastmod>2024-12-02T21:42:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/gat/posts/13/</loc>
+    <loc>//localhost:57359/</loc>
     <lastmod>2024-12-02T21:42:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/gat/posts/08/</loc>
-    <lastmod>2024-12-02T21:42:44+01:00</lastmod>
+    <loc>//localhost:57359/pages/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/gat/posts/02/</loc>
-    <lastmod>2024-12-02T21:42:44+01:00</lastmod>
+    <loc>//localhost:57359/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/gat/posts/03/</loc>
-    <lastmod>2024-12-02T21:42:44+01:00</lastmod>
+    <loc>//localhost:57359/pages/</loc>
   </url><url>
-    <loc>http://localhost:1313/gat/posts/11/</loc>
-    <lastmod>2024-12-02T21:42:44+01:00</lastmod>
+    <loc>//localhost:57359/pages/people/</loc>
   </url><url>
-    <loc>http://localhost:1313/gat/posts/01/</loc>
-    <lastmod>2024-12-02T21:42:44+01:00</lastmod>
+    <loc>//localhost:57359/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/gat/posts/</loc>
-    <lastmod>2024-12-02T21:42:44+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/gat/posts/05/</loc>
-    <lastmod>2024-12-02T21:42:44+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/gat/posts/07/</loc>
-    <lastmod>2024-12-02T21:42:44+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/gat/posts/04/</loc>
-    <lastmod>2024-12-02T21:42:44+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/gat/posts/10/</loc>
-    <lastmod>2024-12-02T21:42:44+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/gat/posts/06/</loc>
-    <lastmod>2024-12-02T21:42:44+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/gat/</loc>
-    <lastmod>2024-12-02T21:42:44+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/gat/posts/14/</loc>
-    <lastmod>2024-12-02T21:42:44+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/gat/posts/12/</loc>
-    <lastmod>2024-12-02T21:42:44+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/gat/posts/00/</loc>
-    <lastmod>2024-12-02T21:35:42+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/gat/pages/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/gat/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/gat/pages/</loc>
-  </url><url>
-    <loc>http://localhost:1313/gat/pages/people/</loc>
-  </url><url>
-    <loc>http://localhost:1313/gat/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/gat/pages/workshops/</loc>
+    <loc>//localhost:57359/pages/workshops/</loc>
   </url>
 </urlset>

@@ -1,7 +1,12 @@
-baseURL = 'https://maartenhunink.github.io/gat/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'The Gat Method'
 theme = 'hugo-blog-awesome'
+
+[params]
+  relativeURLs = true
+  uglyURLs = false
+  mainSections = ['posts']
 
 [menu]
 [[menu.main]]

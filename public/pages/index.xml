@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on The Gat Method</title>
-    <link>http://localhost:1313/gat/pages/</link>
+    <link>//localhost:57359/pages/</link>
     <description>Recent content in Pages on The Gat Method</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/gat/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="//localhost:57359/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About The Gat Method</title>
-      <link>http://localhost:1313/gat/pages/about/</link>
+      <link>//localhost:57359/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/gat/pages/about/</guid>
+      <guid>//localhost:57359/pages/about/</guid>
       
       <description>&lt;p&gt;The Gat Method is an innovative approach to dance and movement developed by renowned choreographer Emanuel Gat. This method represents a unique perspective on choreographic creation and dance training, drawing from Gat&amp;rsquo;s extensive experience as a creator and his work with dancers worldwide.&lt;/p&gt;
 &lt;h2 id=&#34;core-principles&#34;&gt;Core Principles&lt;/h2&gt;
@@ -28,49 +28,49 @@
     
     <item>
       <title>People</title>
-      <link>http://localhost:1313/gat/pages/people/</link>
+      <link>//localhost:57359/pages/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/gat/pages/people/</guid>
+      <guid>//localhost:57359/pages/people/</guid>
       
       <description>&lt;div class=&#34;people&#34;&gt;
     &lt;div class=&#34;person&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/gat/images/person2.png&#34;/&gt;
+        &lt;img src=&#34;//localhost:57359/images/person2.png&#34;/&gt;
         &lt;h4&gt;Emanuel Gat&lt;/h4&gt;
         &lt;p class=&#34;person-details&#34;&gt;
             Some more information here.
         &lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&#34;person&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/gat/images/person1.png&#34;/&gt;
+        &lt;img src=&#34;//localhost:57359/images/person1.png&#34;/&gt;
         &lt;h4&gt;Emma Mouton&lt;/h4&gt;
         &lt;p class=&#34;person-details&#34;&gt;
             Some more information here.
         &lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&#34;person&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/gat/images/person1.png&#34;/&gt;
+        &lt;img src=&#34;//localhost:57359/images/person1.png&#34;/&gt;
         &lt;h4&gt;Emma Mouton&lt;/h4&gt;
         &lt;p class=&#34;person-details&#34;&gt;
             Some more information here.
         &lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&#34;person&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/gat/images/person1.png&#34;/&gt;
+        &lt;img src=&#34;//localhost:57359/images/person1.png&#34;/&gt;
         &lt;h4&gt;Emma Mouton&lt;/h4&gt;
         &lt;p class=&#34;person-details&#34;&gt;
             Some more information here.
         &lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&#34;person&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/gat/images/person1.png&#34;/&gt;
+        &lt;img src=&#34;//localhost:57359/images/person1.png&#34;/&gt;
         &lt;h4&gt;Emma Mouton&lt;/h4&gt;
         &lt;p class=&#34;person-details&#34;&gt;
             Some more information here.
         &lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&#34;person&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/gat/images/person1.png&#34;/&gt;
+        &lt;img src=&#34;//localhost:57359/images/person1.png&#34;/&gt;
         &lt;h4&gt;Emma Mouton&lt;/h4&gt;
         &lt;p class=&#34;person-details&#34;&gt;
             Some more information here.
@@ -82,10 +82,10 @@
     
     <item>
       <title>Workshops</title>
-      <link>http://localhost:1313/gat/pages/workshops/</link>
+      <link>//localhost:57359/pages/workshops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/gat/pages/workshops/</guid>
+      <guid>//localhost:57359/pages/workshops/</guid>
       
       <description>&lt;p&gt;Our workshops are immersive experiences designed to help you experience the Gat Method. Each workshop usually consists of a minimum of 3 days, which are taught by one or more of us. During these intensive sessions, participants engage in practical exercises, group discussions, and receive personalized feedback to deepen their understanding and application of the method.&lt;/p&gt;
 &lt;h2 id=&#34;upcoming-workshops&#34;&gt;Upcoming workshops&lt;/h2&gt;
