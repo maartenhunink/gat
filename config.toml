@@ -1,0 +1,14 @@
+baseURL = "https://maartenhunink.github.io/gat"
+languageCode = "en-us"
+title = "The Gat Method"
+theme = "hugo-blog-awesome"
+
+[params]
+  # The path to your "favicon"
+  favicon = "/favicon.ico"
+  # Dates are displayed following the format below
+  dateFormat = "2006-01-02"
+  # Meta data
+  description = "The Gat Method"
+  # The path to your "logo"
+  logo = "/logo.png"
