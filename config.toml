@@ -1,4 +1,4 @@
-baseURL = "https://maartenhunink.github.io/gat"
+baseURL = "/"
 languageCode = "en-us"
 title = "The Gat Method"
 theme = "hugo-blog-awesome"
@@ -12,3 +12,8 @@ theme = "hugo-blog-awesome"
   description = "The Gat Method"
   # The path to your "logo"
   logo = "/logo.png"
+
+[deployment]
+  [[deployment.targets]]
+    name = "github"
+    URL = "https://maartenhunink.github.io/gat"
