@@ -2,6 +2,8 @@ baseURL = "/"
 languageCode = "en-us"
 title = "The Gat Method"
 theme = "hugo-blog-awesome"
+relativeURLs = true
+CanonifyURLs = true
 
 [params]
   # The path to your "favicon"
