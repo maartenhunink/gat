@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://maartenhunink.github.io/gat/'
 languageCode = 'en-us'
 title = 'The Gat Method'
 theme = 'hugo-blog-awesome'
