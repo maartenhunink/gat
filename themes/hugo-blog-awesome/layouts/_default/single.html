@@ -1,0 +1,48 @@
+{{ define "main" }}
+<div class="wrapper post">
+    <main class="page-content" aria-label="Content">
+        {{ $pagesToShow := where .Site.RegularPages "Type" "in" site.Params.mainSections }}
+        {{ $posts := $pagesToShow.ByParam "number" }}
+        {{ $currentNumber := .Params.Number }}
+        {{ $configDateFormat := .Site.Params.dateFormat | default ":date_medium" }}
+
+        {{ if eq .Type "posts" }}
+            {{ if ne $currentNumber "00" }}
+            <div class="previous-posts">
+                {{ range $posts }}
+                    {{ if lt .Params.Number $currentNumber }}
+                        {{ partial "postCard" . }}
+                    {{ end }}
+                {{ end }}
+            </div>
+            {{ end }}
+        {{ end }}
+
+        <article>
+            <header class="header">
+                <h1 class="header-title">{{.Params.Number}}. {{ .Title }}</h1>
+                {{ with .Date }}
+                {{ $ISO_time := dateFormat "2006-01-02T15:04:05-07:00" . }}
+                {{ end }}
+            </header>
+            {{ partial "toc.html" .}}
+            <div class="page-content">
+                {{ .Content }}
+            </div>
+        </article>
+        {{- partial "comments.html" . -}}
+
+        {{ if eq .Type "posts" }}
+            {{ if lt $currentNumber (len $posts) }}
+            <div class="next-posts">
+                {{ range $posts }}
+                    {{ if gt .Params.Number $currentNumber }}
+                        {{ partial "postCard" . }}
+                    {{ end }}
+                {{ end }}
+            </div>
+            {{ end }}
+        {{ end }}
+    </main>
+</div>
+{{ end }}
